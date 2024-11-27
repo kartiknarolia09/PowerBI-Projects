@@ -1,4 +1,4 @@
-# PowerBI-Projects
+# PowerBI Projects
 Data analysis using Power BI involves several steps to transform, visualize, and gain insights from your data. Here's a general overview of the process:
 
 Data Collection and Import: Start by collecting and organizing your data from various sources, such as Excel files, and CSV files. Open Power BI Desktop, and from the Home tab, select "Get Data" to import your data.
